@@ -66,8 +66,12 @@ header {
          flex-direction: column !important;    
      }
      section img {
-         width: 100%;
-     }
+        width: 90%;
+    }
+    section> div {
+        width: 90% !important;
+        margin: auto;
+    }
     }
 
 section {
